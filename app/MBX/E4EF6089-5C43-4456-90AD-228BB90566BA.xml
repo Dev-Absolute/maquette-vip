@@ -1,0 +1,19 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="F4BD7400-43F3-4343-8382-F26FD1CCD52A" platform="MtWeb" defaultW="1024" defaultH="728" measureW="1024" measureH="728" mobileScreenScale="0">
+  <controls controlCount="1">
+    <control controlID="BFC9ACFC-9097-472A-A9FD-FE6E10F5C303" controlTypeID="BrowserWindow" x="0" y="0" w="1024" h="728" zOrder="0">
+      <color>4294111986</color>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Cannes+VIP+-+Log+In%0D%0Ahttps%3A%2F%2F...</text>
+      <textSize>14</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

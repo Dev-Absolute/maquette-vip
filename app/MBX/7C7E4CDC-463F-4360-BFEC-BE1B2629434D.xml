@@ -1,0 +1,96 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="7C7E4CDC-463F-4360-BFEC-BE1B2629434D" platform="MtWeb" defaultW="1024" defaultH="718" measureW="1024" measureH="718" mobileScreenScale="0">
+  <controls controlCount="8">
+    <control controlID="686C5A8E-051D-4F54-BAA4-066ECA066CF3" controlTypeID="BrowserWindow" x="0" y="0" w="1024" h="718" zOrder="0">
+      <color>4294111986</color>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Mockplus%0D%0Ahttps%3A%2F%2F...</text>
+      <textSize>14</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="68B40ED9-1A85-4962-986E-CA3EB6ECDD63" controlTypeID="__group__" x="0" y="71" w="1024" h="45" zOrder="1">
+      <groupChildrenDescriptors>
+        <control controlID="B5377732-B1A1-4EFE-8939-674B5425207E" controlTypeID="Shape" x="0" y="0" w="1024" h="45" zOrder="0">
+          <color>4288230297</color>
+          <borderColor>2154194534</borderColor>
+          <borderVisible>False</borderVisible>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False"/>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="057B149C-8BAA-4DA0-9BA0-138D96999028" controlTypeID="Label" x="12" y="6" w="122" h="32" zOrder="1">
+          <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="11879E5B-310A-4FD8-8E6D-1B13540E6DBD" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+              <area shape="0" alt="" ID="{0D8FD544-5480-4BEA-82D0-EFBE7BC6E3B1}" coords="(0,0,122,32)"/>
+            </link>
+          </links>
+          <font family="Segoe+UI+Semibold" displayName="Segoe+UI+Semibold" postScript="" weightStyle="Regular" weight="600" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <text>Cannes+VIP</text>
+          <textColor>4294967295</textColor>
+          <textSize>24</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="000A3B6E-9461-4907-8735-1A3CE5E30D28" controlTypeID="__group__" x="867" y="8" w="147" h="29" zOrder="2">
+          <groupChildrenDescriptors>
+            <control controlID="4DCB7E68-DA36-4B98-80DA-558561850B37" controlTypeID="Label" x="0" y="0" w="108" h="27" zOrder="0">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False"/>
+              <text>J.+Zebigboss</text>
+              <textColor>4294967295</textColor>
+              <textSize>20</textSize>
+              <textAlign>HaRight</textAlign>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="7CB9C703-0D98-49C6-AE7A-885C6768BEDE" controlTypeID="Icon" x="118" y="0" w="29" h="29" zOrder="1">
+              <color>4294967295</color>
+              <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="F4BD7400-43F3-4343-8382-F26FD1CCD52A" linkType="ltPageLink" isApplyIncludePage="False" title="Login">
+                  <area shape="0" alt="" ID="{F03A8C0F-16D9-4AC1-B460-A08B21C945C1}" coords="(0,0,29,29)"/>
+                </link>
+              </links>
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>62121</iconCode>
+              </icon>
+              <URL>0A0DE17A261594368733EC810EDA7DC3.svg</URL>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="7935A9AF-76CE-4FDE-B264-E1F80A1317AC" controlTypeID="MenuBar" x="149" y="0" w="255" h="45" zOrder="3">
+          <color>4288230297</color>
+          <borderColor>4291585740</borderColor>
+          <borderVisible>False</borderVisible>
+          <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="BD853ACC-0FF4-4C73-B7C2-779AC85BF1DD" linkType="ltPageLink" isApplyIncludePage="False" title="Fiches">
+              <area shape="0" alt="" ID="{217C87E9-E09B-49D9-98C9-C21342821309}" coords="(0,0,63,45)"/>
+            </link>
+            <link targetPageID="8DAEC892-9F2A-4408-82AE-BE405CF4C986" linkType="ltPageLink" isApplyIncludePage="False" title="+Actions">
+              <area shape="0" alt="" ID="{BF555C85-DBBA-4A90-B190-F4D05ADF47A9}" coords="(63,0,136,45)"/>
+            </link>
+            <link targetPageID="1F4F7496-E9AE-48EF-9BD6-A653B2E55EA5" linkType="ltPageLink" isApplyIncludePage="False" title="+Echanges">
+              <area shape="0" alt="" ID="{A69C1E72-D851-4884-B0A5-801FA605F6C3}" coords="(136,0,220,45)"/>
+            </link>
+          </links>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <text>Fiches%2C+Actions%2C+Echanges</text>
+          <textColor>4294967295</textColor>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+          <selectedColor>4291585740</selectedColor>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

@@ -1,0 +1,309 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="8DAEC892-9F2A-4408-82AE-BE405CF4C986" platform="MtWeb" defaultW="1024" defaultH="718" measureW="1024" measureH="718" mobileScreenScale="0">
+  <controls controlCount="27">
+    <control controlID="686C5A8E-051D-4F54-BAA4-066ECA066CF3" controlTypeID="BrowserWindow" x="0" y="0" w="1024" h="718" zOrder="0">
+      <color>4294111986</color>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Cannes+VIP+-+Fiches%0D%0Ahttps%3A%2F%2F...</text>
+      <textSize>14</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="B2144C59-419C-422F-B495-2E893290FC0E" controlTypeID="__group__" x="0" y="72" w="1024" h="45" zOrder="1">
+      <groupChildrenDescriptors>
+        <control controlID="649FEB5B-4EFD-4041-924F-D1252BA11288" controlTypeID="Shape" x="0" y="0" w="1024" h="45" zOrder="0">
+          <color>4288230297</color>
+          <borderColor>2154194534</borderColor>
+          <borderVisible>False</borderVisible>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False"/>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="0C7A223B-C129-4E94-8741-A59CCD7F2A53" controlTypeID="Label" x="12" y="6" w="122" h="32" zOrder="1">
+          <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="11879E5B-310A-4FD8-8E6D-1B13540E6DBD" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+              <area shape="0" alt="" ID="{0D8FD544-5480-4BEA-82D0-EFBE7BC6E3B1}" coords="(0,0,122,32)"/>
+            </link>
+          </links>
+          <font family="Segoe+UI+Semibold" displayName="Segoe+UI+Semibold" postScript="" weightStyle="Regular" weight="600" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <text>Cannes+VIP</text>
+          <textColor>4294967295</textColor>
+          <textSize>24</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="E54970A5-FBCF-41F9-8DD5-734AB7A96F96" controlTypeID="__group__" x="867" y="8" w="147" h="29" zOrder="2">
+          <groupChildrenDescriptors>
+            <control controlID="CDC61F9F-1ADE-403E-AE2D-70357B7D69DA" controlTypeID="Label" x="0" y="0" w="108" h="27" zOrder="0">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False"/>
+              <text>J.+Zebigboss</text>
+              <textColor>4294967295</textColor>
+              <textSize>20</textSize>
+              <textAlign>HaRight</textAlign>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="5BCBF86C-F96A-4219-9D6F-4D9795D5CBA8" controlTypeID="Icon" x="118" y="0" w="29" h="29" zOrder="1">
+              <color>4294967295</color>
+              <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="F4BD7400-43F3-4343-8382-F26FD1CCD52A" linkType="ltPageLink" isApplyIncludePage="False" title="Login">
+                  <area shape="0" alt="" ID="{F03A8C0F-16D9-4AC1-B460-A08B21C945C1}" coords="(0,0,29,29)"/>
+                </link>
+              </links>
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>62121</iconCode>
+              </icon>
+              <URL>0A0DE17A261594368733EC810EDA7DC3.svg</URL>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="0F8A76E0-0321-4DA0-8082-4F907F81EE3C" controlTypeID="MenuBar" x="149" y="0" w="255" h="45" zOrder="3">
+          <color>4288230297</color>
+          <borderColor>4291585740</borderColor>
+          <borderVisible>False</borderVisible>
+          <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="BD853ACC-0FF4-4C73-B7C2-779AC85BF1DD" linkType="ltPageLink" isApplyIncludePage="False" title="Fiches">
+              <area shape="0" alt="" ID="{217C87E9-E09B-49D9-98C9-C21342821309}" coords="(0,0,63,45)"/>
+            </link>
+            <link targetPageID="8DAEC892-9F2A-4408-82AE-BE405CF4C986" linkType="ltPageLink" isApplyIncludePage="False" title="+Actions">
+              <area shape="0" alt="" ID="{BF555C85-DBBA-4A90-B190-F4D05ADF47A9}" coords="(63,0,136,45)"/>
+            </link>
+            <link targetPageID="1F4F7496-E9AE-48EF-9BD6-A653B2E55EA5" linkType="ltPageLink" isApplyIncludePage="False" title="+Echanges">
+              <area shape="0" alt="" ID="{A69C1E72-D851-4884-B0A5-801FA605F6C3}" coords="(136,0,220,45)"/>
+            </link>
+          </links>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <text>Fiches%2C+Actions%2C+Echanges</text>
+          <textColor>4294967295</textColor>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>1</selectedIndex>
+          <selectedColor>4291585740</selectedColor>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="A48FB9E0-E629-4F77-A87B-B475A8AF3DE3" controlTypeID="__group__" x="121" y="127" w="782" h="66" zOrder="2">
+      <groupChildrenDescriptors>
+        <control controlID="65D691AA-796E-43F3-93BF-3B7DB0938EE5" controlTypeID="Label" x="338" y="0" w="78" h="32" zOrder="0">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <text>Actions</text>
+          <textSize>24</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="029E6586-7E92-44BB-B079-F203315D34BF" controlTypeID="Search" x="0" y="42" w="782" h="24" zOrder="1">
+          <borderColor>4291414473</borderColor>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <text>Rechercher+une+action...</text>
+          <textVAlign>VaTop</textVAlign>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+          <radiusIsPercent>False</radiusIsPercent>
+          <radius>0</radius>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="24024FB5-0D85-402A-A94B-B8E643A72F9C" controlTypeID="__group__" x="121" y="203" w="782" h="44" zOrder="3">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="E7A41D2B-C6F0-4D90-89F0-A9DCA14DFE72" linkType="ltPageLink" isApplyIncludePage="False" title="Consulter+Action">
+          <area shape="0" alt="" ID="{4A6A3267-9E0F-4F99-82B0-09ACDD2AA870}" coords="(0,0,782,44)"/>
+        </link>
+      </links>
+      <groupChildrenDescriptors>
+        <control controlID="7376D222-DEC5-4D0E-BF26-664EBFFE6DA0" controlTypeID="Shape" x="0" y="0" w="782" h="44" zOrder="0">
+          <borderColor>4278190080</borderColor>
+          <borderVisible>False</borderVisible>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <selectedIndex>-1</selectedIndex>
+          <radius>8</radius>
+        </control>
+        <control controlID="49A1088D-FE6F-4A0D-8458-71425CFED044" controlTypeID="TextArea" x="112" y="10" w="416" h="27" zOrder="1">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False"/>
+          <text>R%C3%A9parer+la+douche+de+la+chambre</text>
+          <textSize>18</textSize>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="CAFE1299-55A9-4697-8B64-7543E456F5C6" controlTypeID="__group__" x="528" y="9" w="163" h="25" zOrder="2">
+          <groupChildrenDescriptors>
+            <control controlID="B690E318-602D-457A-82D0-30EA35DE2991" controlTypeID="TextArea" x="0" y="0" w="103" h="25" zOrder="0">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False"/>
+              <text>12%2F10%2F2019</text>
+              <textSize>18</textSize>
+              <textAlign>HaCenter</textAlign>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="7A080CC4-6D24-48D6-8EE5-301861E192B1" controlTypeID="TextArea" x="103" y="0" w="60" h="25" zOrder="1">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False"/>
+              <text>10%3A12</text>
+              <textSize>18</textSize>
+              <textAlign>HaCenter</textAlign>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="71BCA9FC-E80D-4330-86F1-EE6065AF7BC7" controlTypeID="Label" x="10" y="10" w="53" h="24" zOrder="3">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False"/>
+          <text>J.+TEST</text>
+          <textSize>18</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="11E0FA41-ABAB-4F8C-9E19-173FC27472D2" controlTypeID="__group__" x="696" y="5" w="76" h="34" zOrder="4">
+          <groupChildrenDescriptors>
+            <control controlID="1794152B-68D6-4B7D-9D32-B59E7AF0BECE" controlTypeID="Icon" x="0" y="0" w="34" h="34" zOrder="0">
+              <states>
+                <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="100" varType="4"/>
+              </states>
+              <opacity>0.200000002980232</opacity>
+              <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="F181E79D-5CE2-4711-A263-88EC8E38B9F2" linkType="ltPageLink" isApplyIncludePage="False" title="Editer+Action">
+                  <area shape="0" alt="" ID="{019BA2C0-F34C-42C4-9DA3-409680551BEE}" coords="(0,0,34,34)"/>
+                </link>
+              </links>
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>62334</iconCode>
+              </icon>
+              <URL>69A4D1E5CE13432C6A4F579026917C6A.svg</URL>
+            </control>
+            <control controlID="5F216893-D158-4193-AE17-4A51397ECD74" controlTypeID="Icon" x="42" y="0" w="34" h="34" zOrder="1">
+              <states>
+                <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="100" varType="4"/>
+              </states>
+              <opacity>0.200000002980232</opacity>
+              <interactiveData>
+                <entry title="">
+                  <area shape="0" alt="" ID="{34182406-06E2-4A91-8C1F-3739DC53F86B}" coords="(0,0,34,34)"/>
+                  <events title="">
+                    <event eventType="atClick" isChecked="True">
+                      <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                        <target targetID="3DFA2F4D-36E2-40E7-9E96-62F5E3F04E11" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                          <command name="Popup State Change" isChecked="True" descrition="">
+                            <param name="AniInterpolation" value="0" varType="3" description=""/>
+                            <param name="AniDuration" value="200" varType="3" description=""/>
+                            <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                            <param name="AniLoop" value="False" varType="11" description=""/>
+                            <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                            <param name="Delay" value="0" varType="3" description=""/>
+                            <param name="Value" value="2" varType="3" description=""/>
+                            <param name="AniType" value="0" varType="3" description=""/>
+                          </command>
+                        </target>
+                      </behaviour>
+                    </event>
+                  </events>
+                </entry>
+              </interactiveData>
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>62335</iconCode>
+              </icon>
+              <URL>51ED992D000055983D8B8802C65E2870.svg</URL>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="963CDAE4-A161-40E6-A73B-95035C5BAC95" controlTypeID="Icon" x="121" y="257" w="48" h="48" zOrder="4">
+      <states>
+        <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="100" varType="4"/>
+      </states>
+      <opacity>0.200000002980232</opacity>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="F181E79D-5CE2-4711-A263-88EC8E38B9F2" linkType="ltPageLink" isApplyIncludePage="False" title="Editer+Action">
+          <area shape="0" alt="" ID="{C633BC81-6A33-4249-91AA-8A3619AEA13E}" coords="(0,0,48,48)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62151</iconCode>
+      </icon>
+      <URL>D08755C22A9B40B6BF65036DEC8B44B4.svg</URL>
+    </control>
+    <control controlID="3DFA2F4D-36E2-40E7-9E96-62F5E3F04E11" controlTypeID="PopupPanel" x="966" y="633" w="46" h="46" zOrder="5">
+      <groupChildrenDescriptors>
+        <control controlID="AB62E14E-650F-4EF9-9DA3-E249B5ECE832" controlTypeID="Panel" x="0" y="0" w="1024" h="718" zOrder="0">
+          <locked>True</locked>
+          <color>1879048192</color>
+          <borderVisible>False</borderVisible>
+          <canMove>False</canMove>
+          <alias>background</alias>
+          <groupChildrenDescriptors>
+            <control controlID="D86BEE9B-7005-41CF-B076-C6A201071FEF" controlTypeID="Border" x="0" y="0" w="1024" h="718" zOrder="0">
+              <borderVisible>False</borderVisible>
+              <alias>borderLayer</alias>
+            </control>
+          </groupChildrenDescriptors>
+          <thinkness>1</thinkness>
+        </control>
+        <control controlID="1F597D0B-7ECB-4660-ACB8-05EEBA7742CA" controlTypeID="PopupPanelContent" x="412" y="294" w="200" h="130" zOrder="1">
+          <color>16777215</color>
+          <alias>content</alias>
+          <groupChildrenDescriptors>
+            <control controlID="B1F01C93-A785-48B6-85B7-5D6CE6401B20" controlTypeID="Alert" x="0" y="0" w="200" h="130" zOrder="0">
+              <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="8DAEC892-9F2A-4408-82AE-BE405CF4C986" linkType="ltPageLink" isApplyIncludePage="False" title="Oui">
+                  <area shape="0" alt="" ID="{26303205-AABD-42CB-966B-8A9FC62250C8}" coords="(4.5,94.5,95.5,125.5)"/>
+                </link>
+                <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Non">
+                  <area shape="0" alt="" ID="{3AD3A1A5-D8E3-4448-930F-81269F00C428}" coords="(104.5,94.5,195.5,125.5)"/>
+                </link>
+              </links>
+              <interactiveData>
+                <entry title="Oui">
+                  <area shape="0" alt="" ID="{05A6CCCC-6C50-4029-AA6F-CE8DBA56DE39}" coords="(4.5,94.5,95.5,125.5)"/>
+                  <events title=""/>
+                </entry>
+                <entry title="Non">
+                  <area shape="0" alt="" ID="{FCA309E0-BBA4-4B7A-8644-EAD1AC3FC8B1}" coords="(104.5,94.5,195.5,125.5)"/>
+                  <events title="">
+                    <event eventType="atClick" isChecked="True">
+                      <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                        <target targetID="3DFA2F4D-36E2-40E7-9E96-62F5E3F04E11" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                          <command name="Popup State Change" isChecked="True" descrition="">
+                            <param name="AniInterpolation" value="0" varType="3" description=""/>
+                            <param name="AniDuration" value="200" varType="3" description=""/>
+                            <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                            <param name="AniLoop" value="False" varType="11" description=""/>
+                            <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                            <param name="Delay" value="0" varType="3" description=""/>
+                            <param name="Value" value="2" varType="3" description=""/>
+                            <param name="AniType" value="0" varType="3" description=""/>
+                          </command>
+                        </target>
+                      </behaviour>
+                    </event>
+                  </events>
+                </entry>
+              </interactiveData>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False"/>
+              <text>Attention%0D%0A%C3%8Ates-vous+s%C3%BBr+de+vouloir+supprimer+cette+action+%3F%0D%0AOui%2CNon</text>
+              <textSize>14</textSize>
+              <lineSpacing>0</lineSpacing>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+      <isBackgroundFade>True</isBackgroundFade>
+      <isShowBackground>True</isShowBackground>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

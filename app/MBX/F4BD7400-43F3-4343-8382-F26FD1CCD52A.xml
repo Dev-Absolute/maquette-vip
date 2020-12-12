@@ -1,0 +1,186 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="F4BD7400-43F3-4343-8382-F26FD1CCD52A" platform="MtWeb" defaultW="1024" defaultH="718" measureW="1024" measureH="718" mobileScreenScale="0">
+  <controls controlCount="16">
+    <control controlID="BFC9ACFC-9097-472A-A9FD-FE6E10F5C303" controlTypeID="BrowserWindow" x="0" y="0" w="1024" h="718" zOrder="0">
+      <color>4294111986</color>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Cannes+VIP+-+Log+In%0D%0Ahttps%3A%2F%2F...</text>
+      <textSize>14</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="68E43EA5-20B5-42F7-B688-D80D8BFB0BD8" controlTypeID="__group__" x="383" y="218" w="258" h="245" zOrder="1">
+      <groupChildrenDescriptors>
+        <control controlID="70172D38-9633-4BD3-8B08-DFBDE2E06023" controlTypeID="Shape" x="0" y="0" w="258" h="245" zOrder="0">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+          <dashMode>SdDash</dashMode>
+          <radius>8</radius>
+        </control>
+        <control controlID="931256E6-6475-42E3-A1C7-7F43C22336C3" controlTypeID="TextInput" x="13" y="86" w="231" h="25" zOrder="1">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+          <placeHolder>Identifiant</placeHolder>
+          <radius>100</radius>
+          <radiusIsPercent>True</radiusIsPercent>
+        </control>
+        <control controlID="2E4CCAF1-688C-41BF-8CE6-39F7CA11CDB4" controlTypeID="TextInput" x="13" y="121" w="231" h="25" zOrder="2">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+          <placeHolder>Mot+de+passe</placeHolder>
+          <inputModel>emPassword</inputModel>
+          <radius>100</radius>
+          <radiusIsPercent>True</radiusIsPercent>
+        </control>
+        <control controlID="5456DA5F-38EF-4591-8953-5E0A78BEF02E" controlTypeID="Button" x="10" y="156" w="238" h="50" zOrder="3">
+          <color>4288230297</color>
+          <borderVisible>False</borderVisible>
+          <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="11879E5B-310A-4FD8-8E6D-1B13540E6DBD" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+              <area shape="0" alt="" ID="{5D8862B7-B3F6-4CE8-878A-4009DF150F52}" coords="(0,0,238,50)"/>
+            </link>
+          </links>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <text>Se+connecter</text>
+          <textColor>4294967295</textColor>
+          <textSize>28</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+          <radius>100</radius>
+          <radiusIsPercent>True</radiusIsPercent>
+        </control>
+        <control controlID="B7BD4586-5978-40B9-8121-60842C7F9210" controlTypeID="TextArea" x="13" y="12" w="231" h="64" zOrder="4">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False"/>
+          <text>Connectez-vous+pour+acc%C3%A9der+%C3%A0+Cannes+VIP</text>
+          <textSize>20</textSize>
+          <textAlign>HaCenter</textAlign>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="C03D32B4-D38C-4161-A5BD-0A1FBDDC9205" controlTypeID="Link" x="57" y="212" w="144" h="19" zOrder="5">
+          <interactiveData>
+            <entry title="">
+              <area shape="0" alt="" ID="{D0CE0A7E-6946-4A03-8259-7542B58BFE28}" coords="(0,0,144,19)"/>
+              <events title="">
+                <event eventType="atClick" isChecked="True">
+                  <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                    <target targetID="E4975DC7-73B9-4391-AC8E-AF4A74EBB984" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                      <command name="Popup State Change" isChecked="True" descrition="">
+                        <param name="AniInterpolation" value="0" varType="3" description=""/>
+                        <param name="AniDuration" value="200" varType="3" description=""/>
+                        <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                        <param name="AniLoop" value="False" varType="11" description=""/>
+                        <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                        <param name="Delay" value="0" varType="3" description=""/>
+                        <param name="Value" value="2" varType="3" description=""/>
+                        <param name="AniType" value="0" varType="3" description=""/>
+                      </command>
+                    </target>
+                  </behaviour>
+                </event>
+              </events>
+            </entry>
+          </interactiveData>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False"/>
+          <text>Obtenir+vos+identifiants</text>
+          <textColor>4284900966</textColor>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="E4975DC7-73B9-4391-AC8E-AF4A74EBB984" controlTypeID="PopupPanel" x="20" y="90" w="46" h="46" zOrder="2">
+      <groupChildrenDescriptors>
+        <control controlID="3835F5B6-6870-429D-ADC2-A8E2AE4CB63D" controlTypeID="Panel" x="0" y="0" w="1024" h="718" zOrder="0">
+          <locked>True</locked>
+          <color>1879048192</color>
+          <borderVisible>False</borderVisible>
+          <canMove>False</canMove>
+          <alias>background</alias>
+          <groupChildrenDescriptors>
+            <control controlID="0FAECFB2-BB82-439A-B5FA-CA7C8E2955F7" controlTypeID="Border" x="0" y="0" w="1024" h="718" zOrder="0">
+              <borderVisible>False</borderVisible>
+              <alias>borderLayer</alias>
+            </control>
+          </groupChildrenDescriptors>
+          <thinkness>1</thinkness>
+        </control>
+        <control controlID="30698212-76F6-4767-8700-2E11BCCD4854" controlTypeID="PopupPanelContent" x="292" y="279" w="440" h="120" zOrder="1">
+          <color>16777215</color>
+          <alias>content</alias>
+          <groupChildrenDescriptors>
+            <control controlID="5F06F74E-9CF5-49D0-AEC9-B0A2200F7E94" controlTypeID="Shape" x="0" y="0" w="440" h="120" zOrder="0">
+              <borderVisible>False</borderVisible>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+              <radius>8</radius>
+            </control>
+            <control controlID="0D63E53B-5729-40A0-94FB-F048D45BDFEB" controlTypeID="TextArea" x="10" y="42" w="372" h="68" zOrder="1">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False"/>
+              <text>Contactez+votre+responsable+Cannes+pour+obtenir+vos+identifiants+et+mot+de+passe</text>
+              <textSize>16</textSize>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="38ED6154-1AAC-4EA4-8AEB-6DD618A73570" controlTypeID="Label" x="10" y="10" w="213" h="27" zOrder="2">
+              <font family="Segoe+UI+Semibold" displayName="Segoe+UI+Semibold" postScript="" weightStyle="Regular" weight="600" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>Obtenir+vos+identifiants</text>
+              <textSize>20</textSize>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="1F68E69A-E467-447C-B3F6-E7B1A3CA891E" controlTypeID="Icon" x="414" y="10" w="16" h="16" zOrder="3">
+              <color>4291611852</color>
+              <interactiveData>
+                <entry title="">
+                  <area shape="0" alt="" ID="{DCD25520-7206-4DC1-8560-8E8D4BD8EEDD}" coords="(0,0,16,16)"/>
+                  <events title="">
+                    <event eventType="atClick" isChecked="True">
+                      <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                        <target targetID="E4975DC7-73B9-4391-AC8E-AF4A74EBB984" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                          <command name="Popup State Change" isChecked="True" descrition="">
+                            <param name="AniInterpolation" value="0" varType="3" description=""/>
+                            <param name="AniDuration" value="200" varType="3" description=""/>
+                            <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                            <param name="AniLoop" value="False" varType="11" description=""/>
+                            <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                            <param name="Delay" value="0" varType="3" description=""/>
+                            <param name="Value" value="2" varType="3" description=""/>
+                            <param name="AniType" value="0" varType="3" description=""/>
+                          </command>
+                        </target>
+                      </behaviour>
+                    </event>
+                  </events>
+                </entry>
+              </interactiveData>
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>61738</iconCode>
+              </icon>
+              <URL>C3E2977FC40DAEFBC44FD1E53166AF20.svg</URL>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+      <isBackgroundFade>True</isBackgroundFade>
+      <aniType>dnFade</aniType>
+      <isShowBackground>True</isShowBackground>
+      <aniDuration>100</aniDuration>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

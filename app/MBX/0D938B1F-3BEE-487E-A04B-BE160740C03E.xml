@@ -1,0 +1,11 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="0D938B1F-3BEE-487E-A04B-BE160740C03E" platform="MtWeb" defaultW="1024" defaultH="718" measureW="500" measureH="702" mobileScreenScale="0">
+  <controls controlCount="1">
+    <control controlID="1270D10F-B95D-4EA5-8F6A-3067A1833680" controlTypeID="Android" x="0" y="0" w="344" h="702" zOrder="0"/>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>
